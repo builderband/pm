@@ -17,3 +17,9 @@ Any Builderband member is welcome to add an item to the agenda as long as it fol
 
 ### Who Can Attend
 We invite Gitcoin Builderband members and Gitcoin Core team members core to attend the meetings. Sometimes, we ask an external builder with particular expertise to discuss a specific agenda item. If you feel you would contribute to the discussions by your attendance, please reach out to [Leon Erichsen](mailto:leon@gitcoin.co).
+
+### Previous Meetings
+
+| №   | Date                                 | Agenda                                              | Notes                                                                                                                                                                    | Recording                                                                          |
+| --- | ------------------------------------ | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- |
+| 1 | November 22, 2021, 16:00 UTC          | none | none | not recorded |
