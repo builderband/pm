@@ -5,4 +5,4 @@ This repository serves project management for various initiatives affecting the 
 
 ## Builderband meetings
 ### Purpose
-The Builderband meeting is a professional call intended to bring together various Gitcoin builders who performed notable gigs in the Gitcoin ecosystem. Gitcoin builders provide updates on their projects, discuss various Gitcoin hackathons and governance issues to improve projects, and support each other as we build Web 3.
+The Builderband meeting is a professional call intended to bring together various Gitcoin builders who performed notable gigs in the Gitcoin ecosystem. Gitcoin builders provide updates on their projects, discuss various Gitcoin hackathons and governance issues to improve projects, and support each other as we *build* Web 3.
