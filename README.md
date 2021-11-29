@@ -1,5 +1,5 @@
 # Builderband Project Management Repository
-Gitcoin's High-Performance Alumni Network
+**Gitcoin's High-Performance Alumni Network**
 
 This repository serves project management for various initiatives affecting the Gitcoin Builderband. The primary use of this repository is for Builderband meetings.
 
