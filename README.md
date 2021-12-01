@@ -16,7 +16,7 @@ Any Builderband member is welcome to add an item to the agenda as long as it fol
 - The topic should not be philosophical. The Builderband meetings should not decide contentious philosophical issues that the community should decide. Of course, there are exceptions to this, but generally, these topics distract from more productive builder discussions.
 
 ### Who Can Attend
-We invite Gitcoin Builderband members and Gitcoin Core team members core to attend the meetings. Sometimes, we ask an external builder with particular expertise to discuss a specific agenda item. If you feel you would contribute to the discussions by your attendance, please reach out to [Leon Erichsen](mailto:leon@gitcoin.co).
+We invite Gitcoin Builderband members and Gitcoin Core team members core to attend the meetings. Sometimes, we ask an external builders with particular expertise to discuss a specific agenda item. If you feel you would contribute to the discussions by your attendance, please reach out to [Leon Erichsen](mailto:leon@gitcoin.co).
 
 ### Previous Meetings
 
