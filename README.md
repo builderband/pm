@@ -12,7 +12,7 @@ We track the agenda for these calls in the Issues tab of this repository, under 
 
 Any Builderband member is welcome to add an item to the agenda as long as it follows these guidelines:
 - The topic concerns builders.
-- The topic involves the Gitcoin ecosystem at a low level -- this means projects that don't concern Gitcoin hackathons and governance are generally not allowed as topics.
+- The topic involves the Gitcoin ecosystem at a low level -- this means projects that don't concern the Builderband and Gitcoin hackathons and governance are generally not allowed as topics.
 - The topic should not be philosophical. The Builderband meetings should not decide contentious philosophical issues that the community should decide. Of course, there are exceptions to this, but generally, these topics distract from more productive builder discussions.
 
 ### Who Can Attend
