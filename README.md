@@ -20,7 +20,7 @@ We invite Gitcoin Builderband members and Gitcoin Core team members core to atte
 
 ### Previous Meetings
 
-| №   | Date                                 | Agenda                                              |
-| --- | ------------------------------------ | --------------------------------------------------- |
-| 2 | November 29, 2021, 16:00 UTC          | [agenda](https://github.com/leoneric/builderband/issues/1) |
-| 1 | November 22, 2021, 16:00 UTC          | none |
+| №   | Date                                 | Agenda                                              | Notes                                                                                                                                                                    |
+| --- | ------------------------------------ | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2 | November 29, 2021, 16:00 UTC          | [agenda](https://github.com/leoneric/builderband/issues/1) | [notes](https://github.com/leoneric/builderband/issues/1#issuecomment-983477136) |
+| 1 | November 22, 2021, 16:00 UTC          | none | none |
