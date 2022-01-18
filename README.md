@@ -21,6 +21,7 @@ We invite Gitcoin Builderband members and Gitcoin Core team members core to atte
 
 | №   | Date                                 | Agenda                                              | Notes                                                                                                                                                                    |
 | --- | ------------------------------------ | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 8 | Januay 19, 2022, 14:00 UTC          | [agenda](https://github.com/builderband/pm/issues/10) | soon |
 | 7 | Januay 12, 2022, 14:00 UTC          | [agenda](https://github.com/builderband/pm/issues/9) | soon |
 | 6 | Januay 3, 2022, 16:00 UTC          | [agenda](https://github.com/leoneric/builderband/issues/8) | [note](https://github.com/builderband/pm/issues/8#issuecomment-1004853633) |
 | 5 | December 20, 2021, 16:00 UTC          | [agenda](https://github.com/leoneric/builderband/issues/7) | none |
