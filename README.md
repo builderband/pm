@@ -24,7 +24,7 @@ We invite Gitcoin Builderband members and Gitcoin Core team members core to atte
 | 9 | Januay 26, 2022, 14:00 UTC          | [agenda](https://github.com/builderband/pm/issues/11) | tbd | tbd |
 | 8 | Januay 19, 2022, 14:00 UTC          | [agenda](https://github.com/builderband/pm/issues/10) | none | [video](https://youtu.be/MPn_AQrz0eQ) | 
 | 7 | Januay 12, 2022, 14:00 UTC          | [agenda](https://github.com/builderband/pm/issues/9) | none | not recorded |
-| 6 | Januay 3, 2022, 16:00 UTC          | [agenda](https://github.com/leoneric/builderband/issues/8) | [note](https://github.com/builderband/pm/issues/8#issuecomment-1004853633) | not recorded |
+| 6 | Januay 3, 2022, 16:00 UTC          | [agenda](https://github.com/leoneric/builderband/issues/8) | [notes](https://github.com/builderband/pm/issues/8#issuecomment-1004853633) | not recorded |
 | 5 | December 20, 2021, 16:00 UTC          | [agenda](https://github.com/leoneric/builderband/issues/7) | none | not recorded |
 | 4 | December 13, 2021, 16:00 UTC          | [agenda](https://github.com/leoneric/builderband/issues/5) | [notes](https://github.com/leoneric/builderband/issues/5#issuecomment-995637887) | not recorded |
 | 3 | December 6, 2021, 16:00 UTC          | [agenda](https://github.com/leoneric/builderband/issues/2) | [notes](https://github.com/leoneric/builderband/issues/2#issuecomment-990958212) | not recorded |
