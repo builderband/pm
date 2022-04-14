@@ -21,7 +21,7 @@ We invite Gitcoin Builderband members and Gitcoin Core team members core to atte
 
 | №   | Date                                 | Agenda                                              | Notes                                                                                                                                                                    | Recording       |
 | --- | ------------------------------------ | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------- |
-| 19 | April 14, 2022, 13:00 UTC          | [agenda](https://github.com/builderband/pm/issues/20) | TBD | TBD |
+| 19 | April 14, 2022, 13:00 UTC          | [agenda](https://github.com/builderband/pm/issues/20) | none | not recorded |
 | 18 | April 7, 2022, 13:00 UTC          | [agenda](https://github.com/builderband/pm/issues/19) | none | not recorded |
 | 17 | March 31, 2022, 13:00 UTC          | [agenda](https://github.com/builderband/pm/issues/18) | none | not recorded |
 | 16 | March 23, 2022, 13:00 UTC          | [agenda](https://github.com/builderband/pm/issues/17) | none | not recorded |
